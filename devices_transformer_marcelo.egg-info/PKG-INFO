@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: devices-transformer-marcelo
+Version: 0.0.1
+Summary: This package will transform devices input data to estimators
+Home-page: https://github.ibm.com/CIO-Insights-Lab/cio-devices-transformer.git
+Author: Marcelo Mota Manhaes
+Author-email: mmanhaes@br.ibm.com
+License: UNKNOWN
+Description: # Devices Custom Transformer Package
+        
+        This is a simple example package. You can use
+        [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+        to write your content.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown

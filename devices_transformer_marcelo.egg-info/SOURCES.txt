@@ -1,0 +1,10 @@
+README.md
+setup.py
+devices_transformer/CustomTransformerFS.py
+devices_transformer/CustomTransformerFS_V2.py
+devices_transformer/CustomTransformerV2.py
+devices_transformer/__init__.py
+devices_transformer_marcelo.egg-info/PKG-INFO
+devices_transformer_marcelo.egg-info/SOURCES.txt
+devices_transformer_marcelo.egg-info/dependency_links.txt
+devices_transformer_marcelo.egg-info/top_level.txt
